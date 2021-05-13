@@ -76,6 +76,7 @@ int precedence(char op)
 	return -1;
 }
 
+
 //괄호 검사
 int testPair(char expr[]) {
 	int i = 0;
