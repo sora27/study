@@ -1,4 +1,3 @@
-##트리 반복 전위/중위/후위 순환
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
