@@ -378,20 +378,20 @@ int main(void) {
 	insert_edge(g,9,4);
 	insert_edge(g,10,5);
 	
-	// printf("\n======== 인접행렬 =======\n");
-	// printfGraph(g);
+	printf("\n======== 인접행렬 =======\n");
+	printfGraph(g);
 	
-	// printf("\n======== 인접행렬 - DFS - 재귀 =======\n");
-	// reset_visited(g);
-	// dfs(g,4);
+	printf("\n======== 인접행렬 - DFS - 재귀 =======\n");
+	reset_visited(g);
+	dfs(g,4);
 	
-	// printf("\n======== 인접행렬 - DFS - 비재귀 =======\n");
-	// reset_visited(g);
-	// dfs_nonrecur(g,4);
+	printf("\n======== 인접행렬 - DFS - 비재귀 =======\n");
+	reset_visited(g);
+	dfs_nonrecur(g,4);
 	
-	// printf("\n======== 인접행렬 - BFS =======\n");
-	// reset_visited(g);
-	// bfs(g,4);
+	printf("\n======== 인접행렬 - BFS =======\n");
+	reset_visited(g);
+	bfs(g,4);
 	
 	
 	//인접리스트
