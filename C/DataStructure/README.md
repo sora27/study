@@ -126,6 +126,7 @@
 <hr/>
 
 <h3>graph_connected-component.c</h3>
-<h5>picture.jpg 그림을 보고 그래프 G를 인접리스트로 구성한 후 G의 각 연결요소(connected component)의 정점값을 출력하는 프로그램을 작성</h5>
+<h5>picture.JPG 그림을 보고 그래프 G를 인접리스트로 구성한 후 G의 각 연결요소(connected component)의 정점값을 출력하는 프로그램을 작성</h5>
+<img src="./picture.JPG">
 
 
